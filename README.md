@@ -1,4 +1,4 @@
-<h3 align="left">Olá! Meu nome é André Filipe, estou cursando Ciência da computação, busco me profissionalizar nas minhas áreas de interesse, que incluem Ánalise de dados e Inteligencia Artificial(I.A).<br>Com esse perfil, tenho como objetivo, álem de compartilhar meus projetos, registrar minha evolução e aplicar melhoria continua na minha trajetoria.</h3>
+<h2 align="left">Olá! Meu nome é André Filipe, estou cursando Ciência da computação, busco me profissionalizar nas minhas áreas de interesse, que incluem Ánalise de dados e Inteligencia Artificial(I.A).<br>Com esse perfil, tenho como objetivo, álem de compartilhar meus projetos, registrar minha evolução e aplicar melhoria continua na minha trajetoria.</h2>
 
 ###
 
